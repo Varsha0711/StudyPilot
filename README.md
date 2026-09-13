@@ -28,8 +28,7 @@ StudyPilot is a student study-planning website that helps students organize subj
 [Open StudyPilot](https://rad-tulumba-2b3618.netlify.app)
 
 ## Demo Video (2–5 minutes)
-
-Demo video will be added soon.
+[Watch the demo] https://drive.google.com/file/d/1TSYBa3Ajz_FdS_Qf_iQWQjs528uS0utO/view?usp=sharing
 ## Screenshots
 
 Screenshots will be added soon.
