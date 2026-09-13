@@ -31,7 +31,7 @@ StudyPilot is a student study-planning website that helps students organize subj
 [Watch the demo] https://drive.google.com/file/d/1TSYBa3Ajz_FdS_Qf_iQWQjs528uS0utO/view?usp=sharing
 ## Screenshots
 
-Screenshots will be added soon.
+Screenshots of the main pages are included in the screenshots folder.
 ## Run Locally
 
 1. Install Node.js.
