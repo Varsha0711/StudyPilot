@@ -1,16 +1,53 @@
-# React + Vite
+# StudyPilot
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## About
 
-Currently, two official plugins are available:
+StudyPilot is a student study-planning website that helps students organize subjects, study sessions, assignments, and exams, and track their progress.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Dashboard
+* My Subjects
+* Study Planner
+* Focus Timer
+* Assignments
+* Exams
+* Analytics
+* Editable student name
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies
 
-## Expanding the Oxlint configuration
+* React
+* Vite
+* JavaScript
+* HTML and CSS
+* Browser localStorage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Live Website
+
+[Open StudyPilot](https://rad-tulumba-2b3618.netlify.app)
+
+## Demo Video (2–5 minutes)
+
+Demo video will be added soon.
+## Screenshots
+
+Screenshots will be added soon.
+## Run Locally
+
+1. Install Node.js.
+2. Download or clone this repository.
+3. Open the project folder in VS Code.
+4. Run `npm install`.
+5. Run `npm run dev`.
+6. Open the local address shown in the terminal.
+
+## Note
+
+StudyPilot currently stores data in the browser using localStorage. Data saved in one browser does not automatically appear in another browser or on another device.
+
+## Team Details
+
+* Team name: Innov8
+* Members: Varsha V , Lokesh J , Kaviyamathi S
+  
